@@ -2,6 +2,8 @@
 
 ## 1. Cyclistic case study:
 
+### Quick Presentation
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders.
@@ -14,7 +16,7 @@ That is why the following goal has been set up: Design marketing strategies aime
 Below the files containing the analyses.
 - [Data cleaning and assembling](https://github.com/Barchon/Barchon_Portfolio/blob/59bd9143bc41453bee1619b6c9e4c9900fef0e00/CysclisticCleaning.ipynb) using SQL
 - [Exploratory Data Analysis](https://github.com/Barchon/Barchon_Portfolio/blob/59bd9143bc41453bee1619b6c9e4c9900fef0e00/CyclisticAnalysis.ipynb) using SQL
-- Powerpoint to show insights
+- [Powerpoint](https://github.com/Barchon/Barchon_Portfolio/blob/e5b71d87ed18018758c23aa8ba1625e7fad7cd06/CyclisticPresentation.pptx) to show the insights
 
 
 remote_theme: pages-themes/cayman@v0.2.0
