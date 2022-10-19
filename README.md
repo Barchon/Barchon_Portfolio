@@ -13,12 +13,7 @@ That is why the following goal has been set up: Design marketing strategies aime
 
 *To investigate this, the data has been made available by Motivate International Inc. data used to explore how different customer types are using Cyclistic bikes.*
 
-Below the files containing the analyses.
+Below, the files containing the analyses.
 - [Data cleaning and assembling](https://github.com/Barchon/Barchon_Portfolio/blob/59bd9143bc41453bee1619b6c9e4c9900fef0e00/CysclisticCleaning.ipynb) using SQL
 - [Exploratory Data Analysis](https://github.com/Barchon/Barchon_Portfolio/blob/59bd9143bc41453bee1619b6c9e4c9900fef0e00/CyclisticAnalysis.ipynb) using SQL
-- [Powerpoint](https://github.com/Barchon/Barchon_Portfolio/blob/e5b71d87ed18018758c23aa8ba1625e7fad7cd06/CyclisticPresentation.pptx) to show the insights
-
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- [Powerpoint](https://github.com/Barchon/Barchon_Portfolio/blob/1319121b074d419060c151ecb0bbaee54e742b2b/CyclisticPresentation.pptx) to show the insights
