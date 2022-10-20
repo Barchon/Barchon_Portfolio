@@ -15,5 +15,5 @@ That is why the following goal has been set up: Design marketing strategies aime
 
 Below, the files containing the analyses.
 - [Data cleaning and assembling](https://github.com/Barchon/Cyclistic/blob/be9664d7a9d5ae563595624fdcbf38e92e3bce54/CyclisticCleaning.ipynb) using SQL
-- [Exploratory Data Analysis](https://github.com/Barchon/Cyclistic/blob/12cbcc43eed71caa8c6a1f5c1c5864baadfcb16b/CyclisticAnalysis.ipynb) using SQL
+- [Exploratory Data Analysis](https://github.com/Barchon/Cyclistic/blob/4b73ed6bdf6962d3542ca853c916a64018d653fc/CyclisticAnalysis.ipynb) using SQL
 - [Powerpoint](https://github.com/Barchon/Cyclistic/blob/12cbcc43eed71caa8c6a1f5c1c5864baadfcb16b/CyclisticPresentation.pptx) to show the insights
